@@ -1,0 +1,14 @@
+ABaDooRand version 0.2.0 alpha, released on 2014/04/19
+======================================================
+
+alpha release with major changes:
+- Add a plugin abstraction mechanism for random sources. 
+- Add full gsl random generators capabilities, in order to choose any generator when initializing ABaDooRand
+- Add a seed vector parameter to provide different seeds to each random source
+
+
+ABaDooRand version 0.1.0 alpha, released on 2014/03/26
+======================================================
+
+Initial alpha release (suppressed)
+
